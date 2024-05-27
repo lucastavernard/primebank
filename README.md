@@ -1,8 +1,9 @@
 # teste
 
-Projeto de um banco Digital
+Projeto de um banco Digital 
 
-## Getting Started
+
+## Alunos
 
 LUCAS TAVERNARD - 04129023
 LUIZ GUSTAVO - 04135995
